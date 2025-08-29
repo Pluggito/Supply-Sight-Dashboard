@@ -19,3 +19,17 @@ Frontend: React
 Styling: Tailwind CSS + ShadcnUI
 
 Data: Randomly generated demo data for charts & KPIs
+
+📂 Running the Project
+
+# Clone the repo
+git clone https://github.com/Pluggito/Supply-Sight-Dashboard.git
+
+# Navigate into the project
+cd Supply-Sight-Dashboard
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
