@@ -1,0 +1,13 @@
+[
+   { "id": "P-1001", "name": "12mm Hex Bolt", "sku": "HEX-12-100", "warehouse": "BLR-A", "stock": 180, "demand": 120 },
+  { "id": "P-1002", "name": "Steel Washer", "sku": "WSR-08-500", "warehouse": "BLR-A", "stock": 50, "demand": 80 },
+  { "id": "P-1003", "name": "M8 Nut", "sku": "NUT-08-200", "warehouse": "PNQ-C", "stock": 80, "demand": 80 },
+  { "id": "P-1004", "name": "Bearing 608ZZ", "sku": "BRG-608-50", "warehouse": "DEL-B", "stock": 24, "demand": 120 },
+  { "id": "P-1005", "name": "Steel Rod 10mm", "sku": "ROD-10-300", "warehouse": "BLR-A", "stock": 95, "demand": 70 },
+  { "id": "P-1006", "name": "Aluminum Sheet", "sku": "ALU-SHT-001", "warehouse": "PNQ-C", "stock": 30, "demand": 45 },
+  { "id": "P-1007", "name": "Copper Wire 2mm", "sku": "CW-02-150", "warehouse": "DEL-B", "stock": 200, "demand": 180 },
+  { "id": "P-1008", "name": "Plastic Connector", "sku": "PLC-CON-88", "warehouse": "BLR-A", "stock": 15, "demand": 40 },
+  { "id": "P-1009", "name": "Rubber Gasket", "sku": "RBR-GSK-12", "warehouse": "PNQ-C", "stock": 120, "demand": 100 },
+  { "id": "P-1010", "name": "Spring Coil 5cm", "sku": "SPR-05-250", "warehouse": "DEL-B", "stock": 60, "demand": 85 }
+]
+ 
